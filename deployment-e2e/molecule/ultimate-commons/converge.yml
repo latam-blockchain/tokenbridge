@@ -1,3 +1,0 @@
----
-- import_playbook: ./oracle-docker-compose.yml
-- import_playbook: ../../../deployment/site.yml
